@@ -1,3 +1,5 @@
+// IOT project fixed together with prototic with Tinkercad;
+
 void setup() // Função de inicialização
 
 {
